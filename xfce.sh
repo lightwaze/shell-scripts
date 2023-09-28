@@ -1,5 +1,5 @@
 # some essential packages
-sudo pacman -S git neofetch uwufetch htop btop steam wine winetricks meson sassc firefox jre-openjdk nodejs npm pnpm vim qbittorrent
+sudo pacman -S git neofetch uwufetch htop btop steam wine winetricks meson sassc firefox jre-openjdk nodejs npm pnpm vim qbittorrent ffmpeg
 # greybird theme installation
 git clone https://github.com/shimmerproject/Greybird
 cd Greybird
