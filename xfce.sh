@@ -19,5 +19,5 @@ makepkg -i
 # qemu/kvm/virt-manager setup
 sudo pacman -S qemu virt-manager virt-viewer dnsmasq vde2 bridge-utils openbsd-netcat
 sudo sytemctl start libvirtd 
-echo edit /etc/pacman.conf and /etc/libvirt/libvirtd.onf
+echo edit /etc/pacman.conf and /etc/libvirt/libvirtd.conf
 
