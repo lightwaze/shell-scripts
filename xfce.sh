@@ -1,4 +1,4 @@
-sudo pacman -S git neofetch uwufetch htop btop steam wine winetricks meson sassc firefox jre-openjdk nodejs npm pnpm vim 
+sudo pacman -S git neofetch uwufetch htop btop steam wine winetricks meson sassc firefox jre-openjdk nodejs npm pnpm vim qbittorrent
 git clone https://github.com/shimmerproject/Greybird
 cd Greybird
 meson --prefix=/usr builddir
