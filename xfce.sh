@@ -1,4 +1,4 @@
-pacman -S virtualbox git neofetch uwufetch htop btop steam wine winetricks meson sassc firefox jre-openjdk nodejs npm pnpm
+pacman -S virtualbox git neofetch uwufetch htop btop steam wine winetricks meson sassc firefox jre-openjdk nodejs npm pnpm vim 
 git clone https://github.com/shimmerproject/Greybird
 cd Greybird
 meson --prefix=/usr builddir
@@ -12,3 +12,4 @@ git clone https://aur.archlinux.org/paru-bin.git
 cd paru-bin
 makepkg -i
 neofetch
+vim /etc/pacman.conf
